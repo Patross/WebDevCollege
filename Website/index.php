@@ -18,11 +18,9 @@
         <nav>
             <a href="index.php">Home</a>
             <a href="about.php">About Us</a>
-            <a href="contact.php">Contact Us</a>&nbsp;
-            <ul>
-                <li><a href="dogBreeds.php">Dog Breeds</a></li>
-                <li><a href="dachshund.php">Dachshund</a></li>
-            </ul>
+            <a href="contact.php">Contact Us</a>
+            <a href="dogBreeds.php">Dog Breeds</a>
+            <a href="dachshund.php">Dachshund</a>
         </nav>
     </header>
 
