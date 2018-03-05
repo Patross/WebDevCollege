@@ -16,7 +16,6 @@
     
     <header>
         <nav>
-        <nav>
             <a href="index.php">Home</a>
             <a href="about.php">About Us</a>
             <a href="contact.php">Contact Us</a>
@@ -31,19 +30,21 @@
     <main>
         <section>
             <article class="image">
-                <img src="img/dachshund.jpg" alt="Collie dog">
+                <img src="img/beagle.jpg" alt="Beagle dog">
             </article>
 
-            <article class="description-short">
+            <article class="description description-short">
                 <h3>
-                Dachshunds are scent hound dog breeds who were bred to hunt badgers and other tunnelling animals, rabbits, and foxes.
+                Small, compact, and hardy, Beagles are active companions for kids and adults alike.
                 </h3>
             </article>
 
-            <article class="description-long">
+            <article class="description description-long">
                 <h3>
-                Dachshunds are scent hound dog breeds who were bred to hunt badgers and other tunneling animals, rabbits, and foxes. Packs of Dachshunds were even used to
-                trail wild boar. Today their versatility makes them excellent family companions, show dogs, and small-game hunters.
+                Small, compact, and hardy, Beagles are active companions for kids and adults alike. Canines in this dog breed are merry and fun loving, but being hounds,
+                they can also be stubborn and require patient, creative training techniques. Their noses guide them through life, and they’re never happier than when
+                following an interesting scent. The Beagle originally was bred as a scent hound to track small game, mostly rabbits and hare. He is still used for this 
+                purpose in many countries, including the United States.
                 </h3>
             </article>
         </section>
@@ -53,9 +54,9 @@
             <article>
                 <ul>
                     <li>Dog Breed Group:Hound Dogs</li>
-                    <li>Height:8 inches to 9 inches tall at the shoulder</li>
-                    <li>Weight:16 to 32 pounds</li>
-                    <li>Life Span:2 to 15 years</li>
+                    <li>Height:1 foot, 1 inch to 1 foot, 3 inches tall at the shoulder</li>
+                    <li>Weight:18 to 30 pounds</li>
+                    <li>Life Span:10 to 14 years</li>
                 </ul>
             </article>
         </section>
@@ -87,9 +88,9 @@
                         <th>All Around Friendliness</th>
                         <th></th>
                         <th></th>
+                        <th></th>
+                        <th></th>
                         <th>x</th>
-                        <th></th>
-                        <th></th>
                     </tr>
                     <tr>
                         <th>Health Grooming</th>
@@ -111,9 +112,9 @@
                         <th>Exercise Needs</th>
                         <th></th>
                         <th></th>
+                        <th></th>
+                        <th></th>
                         <th>x</th>
-                        <th></th>
-                        <th></th>
                     </tr>
                 </table>
             </article>

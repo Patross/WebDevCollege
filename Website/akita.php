@@ -16,7 +16,6 @@
     
     <header>
         <nav>
-        <nav>
             <a href="index.php">Home</a>
             <a href="about.php">About Us</a>
             <a href="contact.php">Contact Us</a>
@@ -31,31 +30,33 @@
     <main>
         <section>
             <article class="image">
-                <img src="img/dachshund.jpg" alt="Collie dog">
+                <img src="img/akita.jpg" alt="Akita dog">
             </article>
-
-            <article class="description-short">
+            <article class="description description-short">
                 <h3>
-                Dachshunds are scent hound dog breeds who were bred to hunt badgers and other tunnelling animals, rabbits, and foxes.
+                The Akita is a large and powerful dog breed with a noble and intimidating presence.
+                He was originally used for guarding royalty and nobility in feudal Japan.
                 </h3>
             </article>
 
-            <article class="description-long">
+            <section class="description description-long">
                 <h3>
-                Dachshunds are scent hound dog breeds who were bred to hunt badgers and other tunneling animals, rabbits, and foxes. Packs of Dachshunds were even used to
-                trail wild boar. Today their versatility makes them excellent family companions, show dogs, and small-game hunters.
+                he Akita is a large and powerful dog breed with a noble and intimidating presence. He was originally used for guarding royalty and nobility in 
+                feudal Japan. The Akita also tracked and hunted wild boar, black bear, and sometimes deer. He is a fearless and loyal guardian of his family. 
+                The Akita does not back down from challenges and does not frighten easily. Yet he is also an affectionate, respectful, and amusing dog when properly
+                trained and socialized.
                 </h3>
-            </article>
+            </section>
         </section>
 
         <section>
             <h1>Breeding Info:</h1>
             <article>
                 <ul>
-                    <li>Dog Breed Group:Hound Dogs</li>
-                    <li>Height:8 inches to 9 inches tall at the shoulder</li>
-                    <li>Weight:16 to 32 pounds</li>
-                    <li>Life Span:2 to 15 years</li>
+                    <li>Dog Breed Group:Working Dogs</li>
+                    <li>Height:2 feet to 2 feet, 4 inches tall at the shoulder</li>
+                    <li>Weight:70 to 130 pounds</li>
+                    <li>Life Span:10 to 12 years</li>
                 </ul>
             </article>
         </section>
@@ -86,8 +87,8 @@
                     <tr>
                         <th>All Around Friendliness</th>
                         <th></th>
-                        <th></th>
                         <th>x</th>
+                        <th></th>
                         <th></th>
                         <th></th>
                     </tr>
@@ -111,8 +112,8 @@
                         <th>Exercise Needs</th>
                         <th></th>
                         <th></th>
-                        <th>x</th>
                         <th></th>
+                        <th>x</th>
                         <th></th>
                     </tr>
                 </table>

@@ -1,4 +1,35 @@
 *{
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
+}
+body{
+    font-size: 1.5vw;
+}
+nav{
+    width: 100vw;
+}
+
+.image{
+    width: 25vw;
+    height: 40vh;
+    float:left;
+    img{
+        width: 30vw;
+        height: 32vh;
+    }
+}
+.description-short{
+    float:left;
+    width: 74vw;
+    height: 40vh;
+}
+.description-long{
+    clear: both;
+    width: 99vw;
+    height: 20vh;
+}
+.breedinfo{
+    width: 99vw;
+    height: 20vh;
 }

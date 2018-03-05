@@ -1,5 +1,51 @@
+/* line 1, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/Website/scss/styles.scss */
 * {
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  overflow-x: hidden;
+}
 
-/*# sourceMappingURL=styles.css.map */
+/* line 6, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/Website/scss/styles.scss */
+body {
+  font-size: 1.5vw;
+}
+
+/* line 9, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/Website/scss/styles.scss */
+nav {
+  width: 100vw;
+}
+
+/* line 13, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/Website/scss/styles.scss */
+.image {
+  width: 25vw;
+  height: 40vh;
+  float: left;
+}
+
+/* line 17, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/Website/scss/styles.scss */
+.image img {
+  width: 30vw;
+  height: 32vh;
+}
+
+/* line 22, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/Website/scss/styles.scss */
+.description-short {
+  float: left;
+  width: 74vw;
+  height: 40vh;
+}
+
+/* line 27, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/Website/scss/styles.scss */
+.description-long {
+  clear: both;
+  width: 99vw;
+  height: 20vh;
+}
+
+/* line 32, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/Website/scss/styles.scss */
+.breedinfo {
+  width: 99vw;
+  height: 20vh;
+}
+
+/*# sourceMappingURL=../css/styles.map */

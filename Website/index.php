@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>Website</title>
+    <meta name="description" content="A website about dogs">
+    <meta name="keywords" content="dogs,breeds,animals">
+    <meta name="author" content="Patryk Tomaszewski">
+    <title>Doggos</title>
 
     <link rel="stylesheet" type="text/css" media="screen" href="css/styles.css" />
-
-    <script src="js/scripts.js"></script>
 </head>
 <body>
 
@@ -21,6 +21,9 @@
             <a href="contact.php">Contact Us</a>
             <a href="dogBreeds.php">Dog Breeds</a>
             <a href="dachshund.php">Dachshund</a>
+            <a href="akita.php">Akita</a>
+            <a href="beagle.php">Beagle</a>
+            <a href="collie.php">Collie</a>
         </nav>
     </header>
 
@@ -33,5 +36,7 @@
     </footer>
 
 
+    <script src="js/scripts.js"></script>
+    <noscript>Your browser does not have javascript. Some, or most features may not work properly, if at all. Please enable JavaScript</noscript>
 </body>
 </html>

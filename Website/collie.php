@@ -16,7 +16,6 @@
     
     <header>
         <nav>
-        <nav>
             <a href="index.php">Home</a>
             <a href="about.php">About Us</a>
             <a href="contact.php">Contact Us</a>
@@ -31,31 +30,33 @@
     <main>
         <section>
             <article class="image">
-                <img src="img/dachshund.jpg" alt="Collie dog">
+                <img src="img/collie.jpg" alt="Collie dog">
             </article>
 
-            <article class="description-short">
+            <article class="description description-short">
                 <h3>
-                Dachshunds are scent hound dog breeds who were bred to hunt badgers and other tunnelling animals, rabbits, and foxes.
+                The Collie dog breed is a native of Scotland, mostly of the Highland regions but also bred in the Scottish Lowlands and northern England,
+                where she was used primarily as a herding dog. 
                 </h3>
             </article>
 
-            <article class="description-long">
+            <section class="description description-long">
                 <h3>
-                Dachshunds are scent hound dog breeds who were bred to hunt badgers and other tunneling animals, rabbits, and foxes. Packs of Dachshunds were even used to
-                trail wild boar. Today their versatility makes them excellent family companions, show dogs, and small-game hunters.
+                The Collie dog breed is a native of Scotland, mostly of the Highland regions but also bred in the Scottish Lowlands and northern England,
+                where she was used primarily as a herding dog. She is a sensitive and intelligent dog, known for her undying loyalty and amazing ability 
+                to foresee her owner’s needs. She is a great family companion, and is still a capable herding dog.
                 </h3>
-            </article>
+            </section>
         </section>
 
         <section>
             <h1>Breeding Info:</h1>
             <article>
                 <ul>
-                    <li>Dog Breed Group:Hound Dogs</li>
-                    <li>Height:8 inches to 9 inches tall at the shoulder</li>
-                    <li>Weight:16 to 32 pounds</li>
-                    <li>Life Span:2 to 15 years</li>
+                    <li>Dog Breed Group:Herding Dogs</li>
+                    <li>Height:1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder</li>
+                    <li>Weight:50 to 70 pounds</li>
+                    <li>Life Span:10 to 14 years</li>
                 </ul>
             </article>
         </section>
@@ -79,17 +80,17 @@
                         <th>Adaptability</th>
                         <th></th>
                         <th></th>
-                        <th>x</th>
                         <th></th>
+                        <th>x</th>
                         <th></th>
                     </tr>
                     <tr>
                         <th>All Around Friendliness</th>
                         <th></th>
                         <th></th>
+                        <th></th>
+                        <th></th>
                         <th>x</th>
-                        <th></th>
-                        <th></th>
                     </tr>
                     <tr>
                         <th>Health Grooming</th>
@@ -103,8 +104,8 @@
                         <th>Trainability</th>
                         <th></th>
                         <th></th>
-                        <th></th>
                         <th>x</th>
+                        <th></th>
                         <th></th>
                     </tr>
                     <tr>
