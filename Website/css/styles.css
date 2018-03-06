@@ -1,13 +1,24 @@
-/* line 1, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/Website/scss/styles.scss */
 * {
   padding: 0;
-  margin: 0;
-}
+  margin: 0; }
 
-/* line 5, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/Website/scss/styles.scss */
+body {
+  background: rgba(0, 255, 0, 0.3); }
+
 nav {
   background: #00b400;
-  width: calc(100vw-2px);
-}
+  width: 100vw;
+  height: 10vh;
+  line-height: 10vh;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius: 1vw; }
+  nav a {
+    background: rgba(0, 255, 0, 0.5);
+    padding: .7vw;
+    border-radius: 1vw;
+    text-decoration: none;
+    color: black; }
+    nav a:hover {
+      background: rgba(0, 255, 0, 0.8); }
 
-/*# sourceMappingURL=../css/styles.map */
+/*# sourceMappingURL=styles.css.map */

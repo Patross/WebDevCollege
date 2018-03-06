@@ -29,7 +29,7 @@
     </header>
 
     <main>
-        <section>
+        <section class="container">
             <article class="image">
                 <img src="img/dachshund.jpg" alt="Collie dog">
             </article>

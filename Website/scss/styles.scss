@@ -1,8 +1,26 @@
+
 *{
-padding:0;
-margin: 0;
+    padding:0;
+    margin: 0;
+}
+body{
+    background: rgba(0,255,0,0.3);
 }
 nav{
-background: rgba(0,180,0,1);
-width: calc(100vw-2px);
+    background: rgba(0,180,0,1);
+    width: 100vw;
+    height: 10vh;
+    line-height: 10vh;
+    border-bottom-left-radius: 1vw;
+    border-bottom-right-radius: 1vw;
+    a{
+        background: rgba(0,255,0,0.5);
+        padding: .7vw;
+        border-radius: 1vw;
+        text-decoration: none;
+        color: black;
+        &:hover{
+            background: rgba(0,255,0,0.8)
+        }
+    }
 }

@@ -21,6 +21,9 @@
             <a href="contact.php">Contact Us</a>
             <a href="dogBreeds.php">Dog Breeds</a>
             <a href="dachshund.php">Dachshund</a>
+            <a href="akita.php">Akita</a>
+            <a href="beagle.php">Beagle</a>
+            <a href="collie.php">Collie</a>
         </nav>
     </header>
 
