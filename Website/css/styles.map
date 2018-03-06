@@ -5,8 +5,8 @@
 		"../scss/styles.scss"
 	],
 	"sourcesContent": [
-		"*{\r\n    margin: 0;\r\n    padding: 0;\r\n    overflow-x: hidden;\r\n}\r\nbody{\r\n    font-size: 1.5vw;\r\n}\r\nnav{\r\n    width: 100vw;\r\n}\r\n\r\n.image{\r\n    width: 25vw;\r\n    height: 40vh;\r\n    float:left;\r\n    img{\r\n        width: 30vw;\r\n        height: 32vh;\r\n    }\r\n}\r\n.description-short{\r\n    float:left;\r\n    width: 74vw;\r\n    height: 40vh;\r\n}\r\n.description-long{\r\n    clear: both;\r\n    width: 99vw;\r\n    height: 20vh;\r\n}\r\n.breedinfo{\r\n    width: 99vw;\r\n    height: 20vh;\r\n}"
+		"*{\r\npadding:0;\r\nmargin: 0;\r\n}\r\nnav{\r\nbackground: rgba(0,180,0,1);\r\nwidth: calc(100vw-2px);\r\n}"
 	],
-	"mappings": ";AAAA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAE;EACV,OAAO,EAAE,CAAE;EACX,UAAU,EAAE,MAAO;CACtB;;;AACD,AAAA,IAAI,CAAA;EACA,SAAS,EAAE,KAAM;CACpB;;;AACD,AAAA,GAAG,CAAA;EACC,KAAK,EAAE,KAAM;CAChB;;;AAED,AAAA,MAAM,CAAA;EACF,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;EACb,KAAK,EAAC,IAAK;CAKd;;;AARD,AAII,MAJE,CAIF,GAAG,CAAA;EACC,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;CAChB;;;AAEL,AAAA,kBAAkB,CAAA;EACd,KAAK,EAAC,IAAK;EACX,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;CAChB;;;AACD,AAAA,iBAAiB,CAAA;EACb,KAAK,EAAE,IAAK;EACZ,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;CAChB;;;AACD,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;CAChB",
+	"mappings": ";AAAA,AAAA,CAAC,CAAA;EACD,OAAO,EAAC,CAAE;EACV,MAAM,EAAE,CAAE;CACT;;;AACD,AAAA,GAAG,CAAA;EACH,UAAU,EAAE,OAAI;EAChB,KAAK,EAAE,eAAI;CACV",
 	"names": []
 }
