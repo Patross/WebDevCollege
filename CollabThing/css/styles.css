@@ -8,9 +8,10 @@
 body {
   background: #fff;
   font-family: 'Montserrat', sans-serif;
+  background: hotpink;
 }
 
-/* line 9, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
+/* line 10, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
 nav {
   width: 90vw;
   margin: 0 auto;
@@ -18,14 +19,14 @@ nav {
   font-size: 1.5vw;
   font-weight: bold;
   line-height: 8vh;
-  background: #aaa;
+  background: #888;
   padding-left: 1vw;
   border-bottom-left-radius: 1vw;
   border-bottom-right-radius: 1vw;
   text-align: center;
 }
 
-/* line 22, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
+/* line 23, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
 nav a {
   color: white;
   padding: 0.5vw;
@@ -33,7 +34,7 @@ nav a {
   text-decoration: none;
 }
 
-/* line 30, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
+/* line 31, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
 nav a:hover {
   cursor: pointer;
   background: white;
