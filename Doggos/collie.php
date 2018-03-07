@@ -59,9 +59,7 @@
                     <li>Life Span:10 to 14 years</li>
                 </ul>
             </article>
-        </section>
 
-        <section>
             <article>
                 <table>
                     <thead>
