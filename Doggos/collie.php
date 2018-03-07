@@ -64,58 +64,61 @@
         <section>
             <article>
                 <table>
-                    <tr>
-                        <th></th>
-                        <th colspan="5"></em>Star Rating</em></th>
-                    </tr>
-                    <tr>
-                        <th>Characteristic</th>
-                        <th>1</th>
-                        <th>2</th>
-                        <th>3</th>
-                        <th>4</th>
-                        <th>5</th>
-                    </tr>
-                    <tr>
-                        <th>Adaptability</th>
-                        <th></th>
-                        <th></th>
-                        <th></th>
-                        <th>x</th>
-                        <th></th>
-                    </tr>
-                    <tr>
-                        <th>All Around Friendliness</th>
-                        <th></th>
-                        <th></th>
-                        <th></th>
-                        <th></th>
-                        <th>x</th>
-                    </tr>
-                    <tr>
-                        <th>Health Grooming</th>
-                        <th></th>
-                        <th></th>
-                        <th>x</th>
-                        <th></th>
-                        <th></th>
-                    </tr>
-                    <tr>
-                        <th>Trainability</th>
-                        <th></th>
-                        <th></th>
-                        <th>x</th>
-                        <th></th>
-                        <th></th>
-                    </tr>
-                    <tr>
-                        <th>Exercise Needs</th>
-                        <th></th>
-                        <th></th>
-                        <th>x</th>
-                        <th></th>
-                        <th></th>
-                    </tr>
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th colspan="5"></em>Star Rating</em></th>
+                        </tr>
+                        <tr>
+                            <th>Characteristic</th>
+                            <th>1</th>
+                            <th>2</th>
+                            <th>3</th>
+                            <th>4</th>
+                            <th>5</th>
+                        </tr>
+                    </thead>
+                        <tr>
+                            <th>Adaptability</th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th>x</th>
+                            <th></th>
+                        </tr>
+                        <tr>
+                            <th>All Around Friendliness</th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th>x</th>
+                        </tr>
+                        <tr>
+                            <th>Health Grooming</th>
+                            <th></th>
+                            <th></th>
+                            <th>x</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                        <tr>
+                            <th>Trainability</th>
+                            <th></th>
+                            <th></th>
+                            <th>x</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                        <tr>
+                            <th>Exercise Needs</th>
+                            <th></th>
+                            <th></th>
+                            <th>x</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </tbody>
                 </table>
             </article>
         </section>
