@@ -44,3 +44,33 @@ nav{
         border-radius: 1vw;
     }
 }
+main{
+    color: white;
+        table{
+            margin: 0 auto;
+            margin-top: 30vh;
+            td, #customers th {
+            border: 1px solid #ddd;
+            padding: 1vw;
+        }
+        tr:nth-child(even){
+            background-color: salmon;
+        }
+        th {
+            padding-left:1vw; 
+            padding-right:1vw; 
+            padding-top: 1.2vw;
+            padding-bottom: 1.2vw;
+            text-align: left;
+            background-color: salmon;
+            color: white;
+        }
+        table, th, td {
+            border: 0.1vw solid black;
+        }
+    }
+    img{
+        width: 10vw;
+        height: 10vh;
+    }
+}

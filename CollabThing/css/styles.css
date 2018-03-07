@@ -50,4 +50,48 @@ nav a:hover {
   }
 }
 
+/* line 47, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
+main {
+  color: white;
+}
+
+/* line 49, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
+main table {
+  margin: 0 auto;
+  margin-top: 30vh;
+}
+
+/* line 52, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
+main table td, main table #customers th {
+  border: 1px solid #ddd;
+  padding: 1vw;
+}
+
+/* line 56, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
+main table tr:nth-child(even) {
+  background-color: salmon;
+}
+
+/* line 59, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
+main table th {
+  padding-left: 1vw;
+  padding-right: 1vw;
+  padding-top: 1.2vw;
+  padding-bottom: 1.2vw;
+  text-align: left;
+  background-color: salmon;
+  color: white;
+}
+
+/* line 68, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
+main table table, main table th, main table td {
+  border: 0.1vw solid black;
+}
+
+/* line 72, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
+main img {
+  width: 10vw;
+  height: 10vh;
+}
+
 /*# sourceMappingURL=../css/styles.map */
