@@ -94,10 +94,9 @@ main img {
   height: 20vh;
 }
 
-/*# sourceMappingURL=../css/styles.map */
-
-ul{
-    list-style-type: circle;
-    outline-style: dashed;
-    width: 15em;
+/* line 77, I:/_Programming/xampp/htdocs/xampp/WebDevCollege/CollabThing/scss/styles.scss */
+ul, section {
+  text-align: center;
 }
+
+/*# sourceMappingURL=../css/styles.map */
