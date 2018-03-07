@@ -95,3 +95,9 @@ main img {
 }
 
 /*# sourceMappingURL=../css/styles.map */
+
+ul{
+    list-style-type: circle;
+    outline-style: dashed;
+    width: 15em
+}
